@@ -24,11 +24,11 @@
      page, or to the document it names. Anchors are GitHub's own slugs for the
      headings below -- if a heading is renamed, its chip has to be renamed too. -->
 <p align="center">
-  <a href="#how-to-get-it"><img alt="Get OmniTheme" src="https://img.shields.io/badge/⬇%20Get%20OmniTheme-8A7BFF?style=for-the-badge"></a>
+  <a href="#get-omnitheme"><img alt="Get OmniTheme" src="https://img.shields.io/badge/⬇%20Get%20OmniTheme-8A7BFF?style=for-the-badge"></a>
   <a href="#features"><img alt="Features" src="https://img.shields.io/badge/Features-2B2545?style=for-the-badge"></a>
   <a href="#six-colours-one-theme"><img alt="Variants" src="https://img.shields.io/badge/Variants-2B2545?style=for-the-badge"></a>
   <a href="#requirements"><img alt="Requirements" src="https://img.shields.io/badge/Requirements-2B2545?style=for-the-badge"></a>
-  <a href="docs/INSTALLATION.md"><img alt="Install" src="https://img.shields.io/badge/Install-2B2545?style=for-the-badge"></a>
+  <a href="docs/INSTALLATION.md"><img alt="Installation" src="https://img.shields.io/badge/Installation-2B2545?style=for-the-badge"></a>
   <a href="docs/FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-2B2545?style=for-the-badge"></a>
   <a href="docs/CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-2B2545?style=for-the-badge"></a>
 </p>
@@ -142,7 +142,7 @@ Supporters get **all six** in one download. Details in [Variants](docs/VARIANTS.
 
 ---
 
-## How to get it
+## Get OmniTheme
 
 OmniTheme is **donationware**. It is not on this repository, and there is no free
 download link elsewhere — this page is the shop window, not the shop.
