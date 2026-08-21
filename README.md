@@ -200,3 +200,39 @@ modern, fast, no telemetry:
 
 <sub>Tuned for framerate, mixed for headroom, sharp to the pixel. Donationware
 tools for gamers and audiophiles — audio, graphics, and a bit of privacy too.</sub>
+
+More at [github.com/TheOmniGrid](https://github.com/TheOmniGrid).
+
+---
+
+## Credit
+
+OmniTheme is an original theme — no Discord, Vencord or third-party theme code is
+included in it or derived from it.
+
+It bundles **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) 2.304** by
+the JetBrains Mono Project Authors, under the **SIL Open Font Licence 1.1**, unmodified.
+**Cascadia Mono** (© Microsoft Corporation, SIL OFL 1.1) is named as a fallback but not
+bundled.
+
+Full attribution in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
+---
+
+## Contact
+
+Bug reports are genuinely useful — [open an issue](../../issues/new/choose) and include
+your OS, your Discord and Vencord versions, and a screenshot. A fix by a particular date
+is not promised.
+
+Licensing questions, permissions, or anything the licence does not cover:
+
+**omnivex@theomnigrid.biz**
+
+---
+
+<div align="center">
+
+Copyright © 2026 OmniVex · Proprietary donationware · Discord is a trademark of Discord Inc.; OmniTheme is not affiliated with Discord Inc. or the Vencord project.
+
+</div>
