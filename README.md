@@ -230,18 +230,26 @@ Full attribution in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 ## Contact
 
-Bug reports are genuinely useful — [open an issue](../../issues/new/choose) and include
-your OS, your Discord and Vencord versions, and a screenshot. A fix by a particular date
-is not promised.
+Use public channels only for information that is safe to share. Remove usernames, local paths,
+account identifiers, licence data, and other personal information from screenshots and logs.
 
-Licensing questions, permissions, or anything the licence does not cover:
+| Channel | Use |
+|---|---|
+| [GitHub Issues](../../issues/new/choose) | Reproducible bugs, compatibility reports, and documentation corrections |
+| [GitHub Discussions](../../discussions) | Questions, ideas, and community support |
+| [Security](SECURITY.md) | Private vulnerability reporting — never use a public issue |
+| [Email](mailto:omnivex@theomnigrid.biz) | Private support, delivery, or licensing questions |
 
-**omnivex@theomnigrid.biz**
+Support is best-effort. See [SUPPORT.md](SUPPORT.md) and [CONTRIBUTING.md](CONTRIBUTING.md)
+for repository scope and reporting guidance.
 
 ---
 
-<div align="center">
-
-Copyright © 2026 OmniVex · Proprietary donationware · Discord is a trademark of Discord Inc.; OmniTheme is not affiliated with Discord Inc. or the Vencord project.
-
-</div>
+<p align="center">
+  <strong>OmniTheme</strong><br>
+  <a href="https://github.com/TheOmniGrid">The OmniGrid on GitHub</a> ·
+  <a href="https://ko-fi.com/theomnigrid">Ko-fi</a> ·
+  <a href="https://www.patreon.com/TheOmniGrid">Patreon</a><br><br>
+  <sub>Copyright © 2026 OmniVex · Proprietary donationware · <a href="LICENSE.md">Licence</a></sub><br>
+  <sub>Discord is a trademark of Discord Inc.; OmniTheme is not affiliated with Discord Inc. or the Vencord project.</sub>
+</p>
