@@ -2,6 +2,10 @@
   <img src="assets/brand/banner-1600x500.png" alt="OmniTheme — Discord, rebuilt as a terminal." width="100%">
 </p>
 
+<p align="center">
+  <img src="assets/brand/glyph-cycle.gif" alt="The OmniTheme glyph, cycling through all six accent variants" width="140">
+</p>
+
 <h1 align="center">OmniTheme</h1>
 <p align="center"><b>Discord, rebuilt as a terminal — true black surfaces, falling code, CRT scanlines, monospace end to end, and a transparent window onto your desktop.</b></p>
 
