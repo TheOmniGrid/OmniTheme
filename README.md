@@ -1,27 +1,36 @@
-<div align="center">
-  <img src="assets/hero.png" alt="OmniTheme — Discord, rebuilt as a terminal." width="100%">
-</div>
+<p align="center">
+  <img src="assets/brand/banner-1600x500.png" alt="OmniTheme — Discord, rebuilt as a terminal." width="100%">
+</p>
 
-<div align="center">
+<h1 align="center">OmniTheme</h1>
+<p align="center"><b>Discord, rebuilt as a terminal — true black surfaces, falling code, CRT scanlines, monospace end to end, and a transparent window onto your desktop.</b></p>
 
-True black surfaces · falling code · CRT scanlines · Omnivex violet
-Monospace end to end · a transparent window onto your desktop
+<p align="center">
+  <a href="https://www.patreon.com/TheOmniGrid"><img alt="Get it on Patreon" src="https://img.shields.io/badge/Get%20it%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>
+  &nbsp;
+  <a href="https://ko-fi.com/theomnigrid"><img alt="Get it on Ko-fi" src="https://img.shields.io/badge/Get%20it%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
+</p>
 
-[**Get it on Ko-fi**](https://ko-fi.com/theomnigrid) · [**Support on Patreon**](https://www.patreon.com/TheOmniGrid)
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-8A7BFF?style=flat-square">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS-0078D4?style=flat-square&logo=windows&logoColor=white">
+  <img alt="Client" src="https://img.shields.io/badge/client-Vencord-8A7BFF?style=flat-square">
+  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-2EA043?style=flat-square">
+  <img alt="License" src="https://img.shields.io/badge/license-Donationware%20EULA-6A5BDB?style=flat-square">
+</p>
 
-[**Get OmniTheme**](#how-to-get-it) · [Features](#features) · [FAQ](FAQ.md) · [Changelog](CHANGELOG.md)
-
-![Version](https://img.shields.io/badge/version-1.0.0-8B5CF6?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-1a1a1a?style=for-the-badge)
-![Client](https://img.shields.io/badge/client-Vencord-8B5CF6?style=for-the-badge)
-![Licence](https://img.shields.io/badge/licence-donationware-1a1a1a?style=for-the-badge)
-
-</div>
-
----
+<p align="center">
+  <a href="#how-to-get-it">Get OmniTheme</a> ·
+  <a href="#features">Features</a> ·
+  <a href="#six-colours-one-theme">Variants</a> ·
+  <a href="docs/FAQ.md">FAQ</a> ·
+  <a href="docs/CHANGELOG.md">Changelog</a>
+</p>
 
 <!-- Real in-client screenshots are pending — see docs/SCREENSHOTS.md. The only captures
      taken so far show other people's real Discord data and must not be published. -->
+
+---
 
 ## What it is
 
