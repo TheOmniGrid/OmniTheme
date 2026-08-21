@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/brand/cover.gif" alt="OmniTheme — Discord, rebuilt as a terminal. The glyph cycles through all six accent variants." width="100%">
+  <img src="assets/brand/cover.gif" alt="OmniTheme — Discord, rebuilt as a terminal." width="100%">
 </p>
 
 <h1 align="center">OmniTheme</h1>
