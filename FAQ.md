@@ -63,7 +63,7 @@ unaffected.
 
 You ran the `.ps1` directly. Use `INSTALL-WINDOWS.cmd` — it keeps the window open so you
 can read the error, which was being printed all along. See
-[TROUBLESHOOTING.md](TROUBLESHOOTING.md).
+[Troubleshooting](docs/TROUBLESHOOTING.md).
 
 ### Can I turn off the falling code / scanlines / flicker?
 
@@ -90,7 +90,7 @@ derived shades move with it, staying on-hue. That is the whole re-skin.
 ### Can I use it as a base for my own theme?
 
 For yourself, freely — modify anything. Publishing a modified version for others is not
-permitted. See [LICENSE.md](../LICENSE.md).
+permitted. See [LICENSE.md](LICENSE.md).
 
 ### Does it collect anything?
 

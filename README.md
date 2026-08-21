@@ -24,14 +24,19 @@
      page, or to the document it names. Anchors are GitHub's own slugs for the
      headings below -- if a heading is renamed, its chip has to be renamed too. -->
 <p align="center">
-  <a href="#how-to-get-it"><img alt="Get OmniTheme" src="https://img.shields.io/badge/⬇%20Get%20OmniTheme-8A7BFF?style=for-the-badge"></a>
+  <a href="#get-omnitheme"><img alt="Get OmniTheme" src="https://img.shields.io/badge/⬇%20Get%20OmniTheme-8A7BFF?style=for-the-badge"></a>
   <a href="#features"><img alt="Features" src="https://img.shields.io/badge/Features-2B2545?style=for-the-badge"></a>
   <a href="#six-colours-one-theme"><img alt="Variants" src="https://img.shields.io/badge/Variants-2B2545?style=for-the-badge"></a>
+  <a href="PRIVACY.md"><img alt="Privacy" src="https://img.shields.io/badge/Privacy-2B2545?style=for-the-badge"></a>
   <a href="#requirements"><img alt="Requirements" src="https://img.shields.io/badge/Requirements-2B2545?style=for-the-badge"></a>
-  <a href="docs/INSTALLATION.md"><img alt="Install" src="https://img.shields.io/badge/Install-2B2545?style=for-the-badge"></a>
-  <a href="docs/FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-2B2545?style=for-the-badge"></a>
-  <a href="docs/CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-2B2545?style=for-the-badge"></a>
+  <a href="INSTALLATION.md"><img alt="Installation" src="https://img.shields.io/badge/Installation-2B2545?style=for-the-badge"></a>
+  <a href="FAQ.md"><img alt="FAQ" src="https://img.shields.io/badge/FAQ-2B2545?style=for-the-badge"></a>
+  <a href="SUPPORT.md"><img alt="Support" src="https://img.shields.io/badge/Support-2B2545?style=for-the-badge"></a>
+  <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/Changelog-2B2545?style=for-the-badge"></a>
 </p>
+
+> [!IMPORTANT]
+> **Documentation-only repository.** This public repository contains OmniTheme documentation and approved artwork—not application source code, installers, theme payloads, signing material, or private build infrastructure. Official distribution remains outside GitHub.
 
 <!-- Real in-client screenshots are pending — see docs/SCREENSHOTS.md. The only captures
      taken so far show other people's real Discord data and must not be published. -->
@@ -47,43 +52,6 @@ rebuilt around one idea: **Discord as a piece of terminal software.**
 It ships as an installer that does the tedious part for you. One double-click sets up
 the theme, installs the font it needs, and switches on a curated set of 52 Vencord
 plugins with preferences already tuned. No manual copying, no settings archaeology.
-
-## What makes it different
-
-**It is not a recolour.** Most themes swap a palette and call it a day. This one
-replaces the type stack, the corner language, the density, the surface model and the
-window itself — 2,400 lines of stylesheet, every rule written against the live client
-rather than guessed.
-
-**It ships the font.** Themes that name a font they do not provide fail silently — the
-client just renders in something else and you never find out. OmniTheme bundles
-JetBrains Mono and installs it for you, per-user, with no administrator rights.
-
-**It is documented like software, not like a skin.** Every non-obvious rule carries the
-reasoning behind it. Change one variable and the entire client follows.
-
----
-
-## Six colours, one theme
-
-<div align="center">
-  <img src="assets/variants.png" alt="The six OmniTheme accent variants" width="100%">
-</div>
-
-| Variant | Hue | |
-|---|---:|---|
-| **Omnivex violet** | 302.6 | the canonical build |
-| **Discord blurple** | 273.85 | Discord's own brand hue |
-| **Matrix green** | 142 | phosphor bright |
-| **Space blue** | 245 | |
-| **Blood red** | 25 | alerts move to amber |
-| **Bee yellow** | 90 | honey, not lemon |
-
-Every variant is the identical theme with one thing changed: the accent ramp, regenerated
-from a single hue. Same rules, same plugins, same installer — a variant is a hue, not a
-fork. Install one over another and it replaces cleanly.
-
-Supporters get **all six** in one download. Details in [Variants](docs/VARIANTS.md).
 
 ## Features
 
@@ -126,6 +94,43 @@ Supporters get **all six** in one download. Details in [Variants](docs/VARIANTS.
 
 ---
 
+## What makes it different
+
+**It is not a recolour.** Most themes swap a palette and call it a day. This one
+replaces the type stack, the corner language, the density, the surface model and the
+window itself — 2,400 lines of stylesheet, every rule written against the live client
+rather than guessed.
+
+**It ships the font.** Themes that name a font they do not provide fail silently — the
+client just renders in something else and you never find out. OmniTheme bundles
+JetBrains Mono and installs it for you, per-user, with no administrator rights.
+
+**It is documented like software, not like a skin.** Every non-obvious rule carries the
+reasoning behind it. Change one variable and the entire client follows.
+
+---
+
+## Six colours, one theme
+
+<div align="center">
+  <img src="assets/variants.png" alt="The six OmniTheme accent variants" width="100%">
+</div>
+
+| Variant | Hue | |
+|---|---:|---|
+| **Omnivex violet** | 302.6 | the canonical build |
+| **Discord blurple** | 273.85 | Discord's own brand hue |
+| **Matrix green** | 142 | phosphor bright |
+| **Space blue** | 245 | |
+| **Blood red** | 25 | alerts move to amber |
+| **Bee yellow** | 90 | honey, not lemon |
+
+Every variant is the identical theme with one thing changed: the accent ramp, regenerated
+from a single hue. Same rules, same plugins, same installer — a variant is a hue, not a
+fork. Install one over another and it replaces cleanly.
+
+Supporters get **all six** in one download. Details in [Variants](docs/VARIANTS.md).
+
 ## Requirements
 
 | | |
@@ -138,11 +143,11 @@ Supporters get **all six** in one download. Details in [Variants](docs/VARIANTS.
 > **Windows only:** window transparency disables Aero Snap. This is a Vencord/Electron
 > limitation, not a theme bug — a transparent window cannot truly maximise, so snapping
 > has nothing to target. The theme documents how to turn transparency off if you would
-> rather have snapping. See [FAQ](docs/FAQ.md).
+> rather have snapping. See [FAQ](FAQ.md).
 
 ---
 
-## How to get it
+## Get OmniTheme
 
 OmniTheme is **donationware**. It is not on this repository, and there is no free
 download link elsewhere — this page is the shop window, not the shop.
@@ -165,13 +170,17 @@ with CSS, that is roughly what it is worth.
 
 | | |
 |---|---|
-| [**Features**](docs/FEATURES.md) | The full list, with what each thing actually does |
+| [**Features**](FEATURES.md) | The full list, with what each thing actually does |
 | [**Variants**](docs/VARIANTS.md) | The six colours, and how to make a seventh |
-| [**Installation**](docs/INSTALLATION.md) | Step by step, both platforms |
+| [**Installation**](INSTALLATION.md) | Step by step, both platforms |
 | [**Customising**](docs/CUSTOMISING.md) | The variables worth knowing about |
-| [**FAQ**](docs/FAQ.md) | Including the ones people actually ask |
+| [**FAQ**](FAQ.md) | Including the ones people actually ask |
 | [**Troubleshooting**](docs/TROUBLESHOOTING.md) | When the window flashes and nothing happens |
-| [**Changelog**](docs/CHANGELOG.md) | What changed and why |
+| [**Privacy**](PRIVACY.md) | What OmniTheme does and does not process |
+| [**Support**](SUPPORT.md) | Useful reports, privacy redaction, and contact routes |
+| [**Security**](SECURITY.md) | Private vulnerability reporting |
+| [**Contributing**](CONTRIBUTING.md) | Documentation and reproducible-report scope |
+| [**Changelog**](CHANGELOG.md) | What changed and why |
 
 ---
 
