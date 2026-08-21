@@ -149,12 +149,11 @@ download link elsewhere — this page is the shop window, not the shop.
 Supporting the work gets you the full package: the theme, the installer for both
 platforms, the bundled font, and the documentation.
 
-<div align="center">
-
-### [**Ko-fi — one-off support**](https://ko-fi.com/theomnigrid)
-### [**Patreon — ongoing support**](https://www.patreon.com/TheOmniGrid)
-
-</div>
+<p align="center">
+  <a href="https://www.patreon.com/TheOmniGrid"><img src="assets/brand/support-patreon.svg" height="64" alt="Support OmniTheme on Patreon"></a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/theomnigrid"><img src="assets/brand/support-kofi.svg" height="64" alt="Support OmniTheme on Ko-fi"></a>
+</p>
 
 Everything is built and maintained by one person. If it saves you an evening of fiddling
 with CSS, that is roughly what it is worth.
