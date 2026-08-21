@@ -184,7 +184,3 @@ modern, fast, no telemetry:
 
 <sub>Tuned for framerate, mixed for headroom, sharp to the pixel. Donationware
 tools for gamers and audiophiles — audio, graphics, and a bit of privacy too.</sub>
-
-<div align="center">
-<sub>Built by Andreas Hetzl · part of the Omnivex suite</sub>
-</div>
