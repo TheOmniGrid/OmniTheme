@@ -9,6 +9,8 @@ Monospace end to end · a transparent window onto your desktop
 
 [**Get it on Ko-fi**](https://ko-fi.com/theomnigrid) · [**Support on Patreon**](https://www.patreon.com/TheOmniGrid)
 
+[**Get OmniTheme**](#how-to-get-it) · [Features](#features) · [FAQ](FAQ.md) · [Changelog](CHANGELOG.md)
+
 ![Version](https://img.shields.io/badge/version-1.0.0-8B5CF6?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-1a1a1a?style=for-the-badge)
 ![Client](https://img.shields.io/badge/client-Vencord-8B5CF6?style=for-the-badge)
