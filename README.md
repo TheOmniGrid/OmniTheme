@@ -171,6 +171,20 @@ with CSS, that is roughly what it is worth.
 - **Client modification** is outside Discord's Terms of Service. Themes are, in practice,
   universally tolerated, but you use this at your own risk.
 
+---
+
+## The OmniVex suite
+
+OmniTheme is one of a family of tools sharing a design language and a philosophy —
+modern, fast, no telemetry:
+
+**OmniTheme** · **OmniBlock** · **OmniCleaner** · **OmniAPO** · **OmniEQ** · **OmniPlay** · **OmniScale** · **OmniShade** · **OmniVisuals** · **OmniGPU** · **OmniVex Gaming Wrappers**
+
+<sub>**OmniVex Gaming Wrappers** is four Direct3D compatibility installers — OmniDXVK, OmniDxWrapper, OmniVKD3D and OmniVoodoo2.</sub>
+
+<sub>Tuned for framerate, mixed for headroom, sharp to the pixel. Donationware
+tools for gamers and audiophiles — audio, graphics, and a bit of privacy too.</sub>
+
 <div align="center">
 <sub>Built by Andreas Hetzl · part of the Omnivex suite</sub>
 </div>
