@@ -119,7 +119,7 @@ knowing:
 | `--omni-gap` | Space between the floating panels |
 | `--omni-dm-ring` | Unread ring thickness |
 
-See [CUSTOMISING.md](CUSTOMISING.md) for the rest.
+See [Customising](docs/CUSTOMISING.md) for the rest.
 
 ---
 
