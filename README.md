@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/brand/cover.gif" alt="OmniTheme — Discord, rebuilt as a terminal." width="100%">
+  <img src="assets/brand/cover.gif?v=20260822-symbol-reactor" alt="OmniTheme — Discord, rebuilt as a terminal." width="100%">
 </p>
 
 <h1 align="center">OmniTheme</h1>
