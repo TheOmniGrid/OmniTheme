@@ -184,7 +184,7 @@ with CSS, that is roughly what it is worth.
 
 ---
 
-## Legal
+### Legal and licensing
 
 - **Licence:** proprietary donationware. See [LICENSE.md](LICENSE.md). Supporters get a
   personal-use licence; redistribution is not permitted.
@@ -250,6 +250,6 @@ for repository scope and reporting guidance.
   <a href="https://github.com/TheOmniGrid">The OmniGrid on GitHub</a> ·
   <a href="https://ko-fi.com/theomnigrid">Ko-fi</a> ·
   <a href="https://www.patreon.com/TheOmniGrid">Patreon</a><br><br>
-  <sub>Copyright © 2026 OmniVex · Proprietary donationware · <a href="LICENSE.md">Licence</a></sub><br>
+  <sub>Copyright © 2026 OmniVex · Proprietary donationware · <a href="LICENSE.md">Legal &amp; licensing</a></sub><br>
   <sub>Discord is a trademark of Discord Inc.; OmniTheme is not affiliated with Discord Inc. or the Vencord project.</sub>
 </p>
