@@ -56,6 +56,8 @@ plugins with preferences already tuned. No manual copying, no settings archaeolo
 
 ## Features
 
+![OmniTheme capability map covering the full surface system, terminal identity, one-click setup, and documented variables](assets/presentation/capabilities.png)
+
 ### The look
 
 | | |
@@ -114,7 +116,7 @@ reasoning behind it. Change one variable and the entire client follows.
 ## Six colours, one theme
 
 <div align="center">
-  <img src="assets/variants.png" alt="The six OmniTheme accent variants" width="100%">
+  <img src="assets/presentation/variants.png" alt="The six OmniTheme accent variants in one token-driven visual system" width="100%">
 </div>
 
 | Variant | Hue | |
