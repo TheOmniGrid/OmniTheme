@@ -56,7 +56,7 @@ plugins with preferences already tuned. No manual copying, no settings archaeolo
 
 ## Features
 
-![OmniTheme capability map covering the full surface system, terminal identity, one-click setup, and documented variables](assets/presentation/capabilities.png)
+![OmniTheme capability map covering the full surface system, terminal identity, one-click setup, and documented variables](assets/presentation/capabilities.png?v=20260823-visible-numbers-v3)
 
 ### The look
 
