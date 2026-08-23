@@ -3,7 +3,7 @@
 Six accents. One theme. Supporters get all of them in a single download.
 
 <div align="center">
-  <img src="../assets/variants.png" alt="The six OmniTheme accent variants" width="100%">
+  <img src="../assets/presentation/variants.png" alt="The six OmniTheme accent variants" width="100%">
 </div>
 
 ---
