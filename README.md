@@ -60,7 +60,7 @@ from a clean, stable version history.
 
 ## Features
 
-![OmniTheme capability map covering the full surface system, terminal identity, one-click setup, and documented variables](assets/presentation/capabilities.png?v=20260823-visible-numbers-v3)
+![OmniTheme capability map covering the full surface system, terminal identity, one-click setup, and documented variables](assets/presentation/capabilities.png?v=20260825-symbol-number-v4)
 
 ### The look
 
