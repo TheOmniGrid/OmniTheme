@@ -15,10 +15,10 @@
 <!-- Suite metadata: Version · Platform · Languages · Telemetry · Distribution -->
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-8A7BFF?style=flat-square">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%20%C2%B7%20macOS-0078D4?style=flat-square">
-  <img alt="Languages" src="https://img.shields.io/badge/languages-language%20neutral-8A7BFF?style=flat-square">
-  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-2EA043?style=flat-square">
-  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-99A3B1?style=flat-square">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%20%C2%B7%20macOS-57C7FF?style=flat-square">
+  <img alt="Language neutral" src="https://img.shields.io/badge/languages-neutral-8A7BFF?style=flat-square">
+  <img alt="Telemetry" src="https://img.shields.io/badge/telemetry-none-00C66D?style=flat-square">
+  <img alt="Distribution" src="https://img.shields.io/badge/distribution-docs%20only-969FAB?style=flat-square&labelColor=30363D">
 </p>
 
 <!-- Quick navigation. These are clickable: each chip jumps to a section of this
@@ -54,6 +54,10 @@ It ships as an installer that does the tedious part for you. One double-click se
 the theme, installs the font it needs, and switches on a curated set of 52 Vencord
 plugins with preferences already tuned. No manual copying, no settings archaeology.
 
+The public package version is **1.0.0**. It is the finalized distribution of the
+private 2.29.3 development line, renumbered deliberately so public releases start
+from a clean, stable version history.
+
 ## Features
 
 ![OmniTheme capability map covering the full surface system, terminal identity, one-click setup, and documented variables](assets/presentation/capabilities.png?v=20260823-visible-numbers-v3)
@@ -77,7 +81,7 @@ plugins with preferences already tuned. No manual copying, no settings archaeolo
   glow, sitting neatly *under* the status dot — instead of a bar off to the side.
 - **Mentions, unread counts and "NEW" chips share one alert language**, so a red pulse
   always means the same thing wherever you see it.
-- **Square, hairline-framed avatars and badges**, with the status notch preserved.
+- **Circular avatars with a precise unread ring**, while the status notch remains visible and correctly layered.
 - **Attachment cards are quieter** than the messages they hang off.
 - **Every effect has an off switch** — one variable each for the rain, the CRT layer,
   the transparency and the glow.
